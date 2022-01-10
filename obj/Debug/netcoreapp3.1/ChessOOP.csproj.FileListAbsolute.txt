@@ -1,0 +1,14 @@
+C:\Users\Laptop\source\ChessOOP\bin\Debug\netcoreapp3.1\ChessOOP.exe
+C:\Users\Laptop\source\ChessOOP\bin\Debug\netcoreapp3.1\ChessOOP.deps.json
+C:\Users\Laptop\source\ChessOOP\bin\Debug\netcoreapp3.1\ChessOOP.runtimeconfig.json
+C:\Users\Laptop\source\ChessOOP\bin\Debug\netcoreapp3.1\ChessOOP.runtimeconfig.dev.json
+C:\Users\Laptop\source\ChessOOP\bin\Debug\netcoreapp3.1\ChessOOP.dll
+C:\Users\Laptop\source\ChessOOP\bin\Debug\netcoreapp3.1\ChessOOP.pdb
+C:\Users\Laptop\source\ChessOOP\obj\Debug\netcoreapp3.1\ChessOOP.csproj.AssemblyReference.cache
+C:\Users\Laptop\source\ChessOOP\obj\Debug\netcoreapp3.1\ChessOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\source\ChessOOP\obj\Debug\netcoreapp3.1\ChessOOP.AssemblyInfoInputs.cache
+C:\Users\Laptop\source\ChessOOP\obj\Debug\netcoreapp3.1\ChessOOP.AssemblyInfo.cs
+C:\Users\Laptop\source\ChessOOP\obj\Debug\netcoreapp3.1\ChessOOP.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\source\ChessOOP\obj\Debug\netcoreapp3.1\ChessOOP.dll
+C:\Users\Laptop\source\ChessOOP\obj\Debug\netcoreapp3.1\ChessOOP.pdb
+C:\Users\Laptop\source\ChessOOP\obj\Debug\netcoreapp3.1\ChessOOP.genruntimeconfig.cache
